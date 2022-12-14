@@ -159,6 +159,7 @@ Website Traffic|Website traffic data for individual product pages (Duration: Jan
 # 🧾 What can you practice with this case study?
 - Python
   - pandas, numpy,matplotlib, sklearn.
+  - silhouette, KMeans
   - Cleaning, check Null values, transforming, Merging, Groupby. 
   - Running model,Scaling model, Fiting model, Testing model. 
   - Loop function.
