@@ -143,7 +143,7 @@ Website Traffic|Website traffic data for individual product pages (Duration: Jan
 ---
 ## 🔎  Explore data and test model
 
-### The Process is following -  [Code](https://github.com/beto1810/Website_Traffic_Analyze/blob/main/MindX_Course4_Unsupervised.ipynb)
+### The Process is following -  [Code](https://github.com/beto1810/Website_Traffic_Analyze/blob/main/Code_Unsupervised.ipynb)
 
 - Import Library and dataset
 - Explore data
